@@ -25,4 +25,4 @@ This project detects objects in high-resolution satellite images and generates s
 2. Select and crop any region
 3. Generate a short caption for the selected region
 4. Ask questions related to the region (e.g., "What is seen in this area?")
-5. Gnerates a detailed caption  about the cropped image
+5. Generates a detailed caption about the cropped image
